@@ -1,4 +1,6 @@
-
+/*
+Overall Site
+*/
 body {
 	background-color: #585858;
 	width:auto;
@@ -12,7 +14,9 @@ h1 {
 	color: #E80D0C;
 	opacity: 0.5;
 }
-
+/*
+Navigation
+*/
 a:link {
 	color: #E80D0C;
 }
@@ -28,10 +32,13 @@ a:hover {
 a:active {
 	color: #FF9900;
 }
-
+/*
+Paragraphs
+*/
 li {
 	list-style:circle;
 }
+
 div {
 	width:auto;
 	padding:inherit;
