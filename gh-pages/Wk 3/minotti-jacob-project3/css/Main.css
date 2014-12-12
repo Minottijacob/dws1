@@ -1,0 +1,85 @@
+/*
+Overall Site
+*/
+
+body {
+	background-color: #666666;
+	background-image: url("../images/Background.gif");
+	background-repeat: repeat;
+	background-position: center;
+	width:100%;
+	margin: 0%;
+}
+/*
+Header
+*/
+#header {
+	padding:5px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2.500em;
+	color: #E80D0C;
+	opacity: 0.5;
+	padding: 15px;
+}
+
+/*
+Navigation
+*/
+#navigation {
+	line-height:30px;
+	background-image: url("../images/Background.gif");
+	background-repeat:repeat-x;
+	height: 300px;
+    width: 8.5%;
+    float:left;
+    padding:10px;
+	margin: 5%;
+}
+
+/*
+Paragraphs
+*/
+#content {
+	background-image: url("../images/Background.gif");
+	background-repeat: repeat-x;
+	margin: 170%;
+	width:880%;
+	height: 435%;
+    float:left;
+    padding:0px;
+	color:#09F
+}
+
+li {
+	list-style:circle;
+}
+
+div {
+	background-image: url("../images/Background.gif");
+	background-repeat: repeat-x;
+	border: 25px solid #666;
+	margin: 0%;
+	border-radius: 25px;
+	box-shadow: 10px 10px 5px #000;
+}
+
+a:link {
+	color: #E80D0C;
+}
+
+a:visited {
+	color: #E80D0C;
+}
+
+a:hover {
+	color: #FFFF00;
+}
+
+a:active {
+	color: #FF9900;
+}
+
+
+
+
